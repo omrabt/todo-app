@@ -1,0 +1,12 @@
+.m-r{
+    margin-right: 10px !important;
+}
+ul li a{
+    width: fit-content;
+    height: fit-content;
+}
+
+.comleted-task{
+    text-decoration: line-through !important;
+    background-color: darkgray !important;
+}
